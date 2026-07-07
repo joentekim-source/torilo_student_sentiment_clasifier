@@ -1,3 +1,15 @@
+---
+title: Torilo Sentiment Classifier
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+
+
+
 # Student Sentiment Classifier
 
 A machine learning API that predicts whether a student's review is positive or negative.
